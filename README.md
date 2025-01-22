@@ -1,5 +1,9 @@
 ## 백엔드 개발자를 목표로 하고 있는 정원준이라고 합니다
 
+### 이력
+- Pirogramming 22기(2024.12 ~)
+
+- 아주대학교 소프트웨어학과(2021.03 ~)
 
 <div>
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
