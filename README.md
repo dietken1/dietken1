@@ -1,9 +1,6 @@
 ## 백엔드 개발자를 목표로 하고 있는 정원준이라고 합니다
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dietken1)](https://solved.ac/dietken1)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dietken1&theme=cold)
-
 <div>
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -15,3 +12,6 @@
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
 </div>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dietken1)](https://solved.ac/dietken1)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dietken1&theme=cold)
