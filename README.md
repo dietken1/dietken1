@@ -6,7 +6,7 @@
 ✅ 아주대학교 소프트웨어학과(2021.03 ~)<br>
 
 
-<br><br><br>
+<br><br>
 ### 💻️ Tech Stacks
 <div>
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -21,7 +21,7 @@
 </div>
 
 
-<br><br><br>
+<br><br>
 ### ✉️ Contact me
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dietken1@ajou.ac.kr)
@@ -30,6 +30,6 @@
 
 
 
-<br><br><br>
+<br><br>>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dietken1)](https://solved.ac/dietken1)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dietken1&theme=cold)
