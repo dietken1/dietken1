@@ -30,6 +30,6 @@
 
 
 
-<br><br>>
+<br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dietken1)](https://solved.ac/dietken1)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dietken1&theme=cold)
