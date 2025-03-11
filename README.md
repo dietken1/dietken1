@@ -1,15 +1,20 @@
 ## 백엔드 개발자를 목표로 하고 있는 정원준이라고 합니다 😎<br>
 
 ### 🏆️ 이력
-✅ Pirogramming 22기(2024.12 ~ 2025.02)<br>
+✅ [Inbridge] 인턴쉽 (2025.03 ~ )<br>
 
-✅ 아주대학교 소프트웨어학과(2021.03 ~)<br>
+✅ Pirogramming 23기 기획팀장 (2025.03 ~ )<br>
+
+✅ Pirogramming 22기 수료 (2024.12 ~ 2025.02)<br>
+
+✅ 아주대학교 소프트웨어학과(2021.03 ~ )<br>
 
 
 <br><br>
 ### 💻️ Tech Stacks
 <div>
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-%233776AB.svg?&style=for-the-badge&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white" />
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -20,6 +25,16 @@
 <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
 </div>
 
+
+<br><br>
+### 📖 Studying Stacks
+<div>
+<img src="https://img.shields.io/badge/React-%23000000.svg?&style=for-the-badge&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-%234EAA25.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/C Sharp-%234EAA25.svg?&style=for-the-badge&logo=C Sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSql-%233776AB.svg?&style=for-the-badge&logo=PostgreSql&logoColor=white" />
+<img src="https://img.shields.io/badge/supabase-%233776AB.svg?&style=for-the-badge&logo=supabase&logoColor=white" />
+</div>
 
 <br><br>
 ### ✉️ Contact me
