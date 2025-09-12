@@ -33,7 +33,6 @@
 <div>
 <img src="https://img.shields.io/badge/React-%23000000.svg?&style=for-the-badge&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-%234EAA25.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/C Sharp-%234EAA25.svg?&style=for-the-badge&logo=C Sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSql-%233776AB.svg?&style=for-the-badge&logo=PostgreSql&logoColor=white" />
 <img src="https://img.shields.io/badge/supabase-%233776AB.svg?&style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
