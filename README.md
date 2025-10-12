@@ -12,11 +12,12 @@
 ### 💼 Experience
 - **[SOPT](https://www.sopt.org/)**  | 37기 서버파트 YB | 25.09 ~
 - **[Inbridge](https://in-bridge.com/)** | 개발부서 인턴 | 25.03 ~ 25.08
-- **[Pirogramming](https://www.pirogramming.com/)** | 피로그래밍 서비스 개발 팀 PIRONEER 4기 | 25.03 ~ 25.05
+- **[Pirogramming](https://www.pirogramming.com/)** | 피로그래밍 서비스 개발 팀 PIRONEER 4기 | 2025.03 ~ 2025.05
 - **[Pirogramming](https://www.pirogramming.com/)** | 22기 & 23기 기획팀장 | 24.12 ~ 25.08
 ---
 ### 🏆 Certifications
 - **SQLD** | 한국데이터베이스진흥원 | 25.09.19
+
 ---
 ### 🚀 Projects
 | 프로젝트 명 | 설명 |
@@ -24,11 +25,13 @@
 | **[IsItEmpty](https://github.com/Isitempty)** | 이전 **지성Park** 서비스의 문제점을 개선한 실시간 주차장 정보 제공 서비스 |
 | **[지성Park](https://github.com/pirogramming/JisungPark)** | 실시간 주차장 정보 제공 서비스 |
 | **[Pirocheck](https://github.com/pirogramming/PiroCheck)** | 피로그래밍 동아리 출석 및 과제 관리 서비스 |
+| **[A-Rate](https://github.com/dietken1/A-Rate)** | 아주대학교 학생들을 위한 수업 평가 서비스 |
 | **Defender X** | AI기반 엔터프라이즈 보안 솔루션 서비스 |
 | **RingOnMRS** | MS Teams기반 회의록 녹취 서비스 |
 | **[RainyDay](https://github.com/gmyun1999/RainyDay)** | 라즈베리파이를 이용한 스마트 가드닝 시스템 |
 ---
 <br><br>
+## 🛠️ Tech Stacks
 ### 🔧 Back-end
 <div>
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -73,9 +76,7 @@
 <img src="https://img.shields.io/badge/microsoft%20teams-%23626AFF.svg?&style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 </div>
 
-<br><br>
-
-
+---
 
 <br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dietken1)](https://solved.ac/dietken1)
