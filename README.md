@@ -1,48 +1,79 @@
-## 백엔드 개발자를 목표로 하고 있는 정원준이라고 합니다 😎<br>
+## 서버 개발자를 목표로 하고 있는 정원준이라고 합니다 😎<br>
 
-### 🏆️ 이력
-✅ SQLD 취득 (2025.09.12)<br>
+🌐 **Portfolio**: [dietken1.site](https://dietken1.site)<br>
+📧 **Email**: [dietken1@ajou.ac.kr](mailto:dietken1@ajou.ac.kr)<br>
+📝 **Blog**: [dietken1.tistory.com](https://dietken1.tistory.com/)<br>
+📱 **Instagram**: [@dietken1](https://instagram.com/dietken1)<br>
 
-✅ [Inbridge] 개발부서 인턴쉽 (2025.03 ~ 2025.08)<br>
-
-✅ [Pirogramming] 23기 기획팀장 (2025.03 ~ 2025.08)<br>
-
-✅ [Pirogramming] 22기 수료 (2024.12 ~ 2025.02)<br>
-
-✅ 아주대학교 소프트웨어학과(2021.03 ~ )<br>
-
-
+---
+### 🎓 Education  
+- **[아주대학교](https://www.ajou.ac.kr/kr/index.do)** | 소프트웨어학과 | 21.03 ~ 
+---
+### 💼 Experience
+- **[SOPT](https://www.sopt.org/)**  | 37기 서버파트 YB | 25.09 ~
+- **[Inbridge](https://in-bridge.com/)** | 개발부서 인턴 | 25.03 ~ 25.08
+- **[Pirogramming](https://www.pirogramming.com/)** | 피로그래밍 서비스 개발 팀 PIRONEER 4기 | 25.03 ~ 25.05
+- **[Pirogramming](https://www.pirogramming.com/)** | 22기 & 23기 기획팀장 | 24.12 ~ 25.08
+---
+### 🏆 Certifications
+- **SQLD** | 한국데이터베이스진흥원 | 25.09.19
+---
+### 🚀 Projects
+| 프로젝트 명 | 설명 |
+|------------|------|
+| **[IsItEmpty](https://github.com/Isitempty)** | 이전 **지성Park** 서비스의 문제점을 개선한 실시간 주차장 정보 제공 서비스 |
+| **[지성Park](https://github.com/pirogramming/JisungPark)** | 실시간 주차장 정보 제공 서비스 |
+| **[Pirocheck](https://github.com/pirogramming/PiroCheck)** | 피로그래밍 동아리 출석 및 과제 관리 서비스 |
+| **Defender X** | AI기반 엔터프라이즈 보안 솔루션 서비스 |
+| **RingOnMRS** | MS Teams기반 회의록 녹취 서비스 |
+| **[RainyDay](https://github.com/gmyun1999/RainyDay)** | 라즈베리파이를 이용한 스마트 가드닝 시스템 |
+---
 <br><br>
-### 💻️ Tech Stacks
+### 🔧 Back-end
 <div>
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-%233776AB.svg?&style=for-the-badge&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white" />
-<img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
+<img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-%234EAA25.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSql-%23337691.svg?&style=for-the-badge&logo=PostgreSql&logoColor=white" />
+<img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/celery-%2337844A.svg?&style=for-the-badge&logo=celery&logoColor=white" />
+</div>
+
+### ⚙️ DevOps & Infrastructure
+<div>
+<img src="https://img.shields.io/badge/aws-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/NCP-%23003366.svg?&style=for-the-badge&logo=naver&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/kafka-%23231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/HAProxy-%2300A8E0.svg?&style=for-the-badge&logo=haproxy&logoColor=white" />
+<img src="https://img.shields.io/badge/wazuh-%23FF6B00.svg?&style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white" />
+</div>
+
+### 🎨 Front-end
+<div>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white" />
 </div>
 
-
-<br><br>
-### 📖 Studying Stacks
+### 🤝 Collaboration Tools
 <div>
-<img src="https://img.shields.io/badge/React-%23000000.svg?&style=for-the-badge&logo=React&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-%234EAA25.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSql-%233776AB.svg?&style=for-the-badge&logo=PostgreSql&logoColor=white" />
-<img src="https://img.shields.io/badge/supabase-%233776AB.svg?&style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/microsoft%20teams-%23626AFF.svg?&style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 </div>
 
 <br><br>
-### ✉️ Contact me
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dietken1@ajou.ac.kr)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://dietken1.tistory.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dietken1)
 
 
 
