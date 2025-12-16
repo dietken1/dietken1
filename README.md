@@ -22,6 +22,8 @@
 ### 🚀 Projects
 | 프로젝트 명 | 설명 |
 |------------|------|
+| **[AeroChain](https://github.com/dietken1/AeroChain-Server.git)** | 차세대 드론 멀티배송 서비스 |
+| **[HandsUP](https://github.com/SOPT-all/37-SOPTKATHON-SERVER-ANDROID2.git)** | 온라인 대학 공론장 서비스 |
 | **[IsItEmpty](https://github.com/Isitempty)** | 이전 **지성Park** 서비스의 문제점을 개선한 실시간 주차장 정보 제공 서비스 |
 | **[지성Park](https://github.com/pirogramming/JisungPark)** | 실시간 주차장 정보 제공 서비스 |
 | **[Pirocheck](https://github.com/pirogramming/PiroCheck)** | 피로그래밍 동아리 출석 및 과제 관리 서비스 |
