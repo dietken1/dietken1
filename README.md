@@ -10,18 +10,22 @@
 - **[아주대학교](https://www.ajou.ac.kr/kr/index.do)** | 소프트웨어학과 | 21.03 ~ 
 ---
 ### 💼 Experience
-- **[SOPT](https://www.sopt.org/)**  | 37기 서버파트 YB | 25.09 ~
+- **[SOPT](https://www.sopt.org/)** | 37기 서버파트 YB | 25.09 ~
 - **[Inbridge](https://in-bridge.com/)** | 개발부서 인턴 | 25.03 ~ 25.08
 - **[Pirogramming](https://www.pirogramming.com/)** | 피로그래밍 서비스 개발 팀 PIRONEER 4기 | 2025.03 ~ 2025.05
 - **[Pirogramming](https://www.pirogramming.com/)** | 22기 & 23기 기획팀장 | 24.12 ~ 25.08
 ---
-### 🏆 Certifications
+### 🏆 Awards
+- SOPT 37th AppJam Demoday | **1st prize** | 26.01.24
+---
+### 📌 Certifications
 - **SQLD** | 한국데이터베이스진흥원 | 25.09.19
 
 ---
 ### 🚀 Projects
 | 프로젝트 명 | 설명 |
 |------------|------|
+| **[Kiero](https://github.com/Team-Kiero/Kiero-Server)** | 자녀의 일정 관리와 자기주도적 습관 형성을 돕는 게이미피케이션 기반 성장 플랫폼 |
 | **[AeroChain](https://github.com/dietken1/AeroChain-Server.git)** | 차세대 드론 멀티배송 서비스 |
 | **[HandsUP](https://github.com/SOPT-all/37-SOPTKATHON-SERVER-ANDROID2.git)** | 온라인 대학 공론장 서비스 |
 | **[IsItEmpty](https://github.com/Isitempty)** | 이전 **지성Park** 서비스의 문제점을 개선한 실시간 주차장 정보 제공 서비스 |
