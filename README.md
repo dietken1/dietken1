@@ -1,6 +1,6 @@
 ## 서버 개발자를 목표로 하고 있는 정원준이라고 합니다 😎<br>
 
-🌐 **Portfolio**: [dietken1.site](https://dietken1.site)<br>
+🌐 **Portfolio**: [dietken1.github.io](https://dietken1.github.io)<br>
 📧 **Email**: [dietken1@ajou.ac.kr](mailto:dietken1@ajou.ac.kr)<br>
 📝 **Blog**: [dietken1.tistory.com](https://dietken1.tistory.com/)<br>
 📱 **Instagram**: [@dietken1](https://instagram.com/dietken1)<br>
