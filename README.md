@@ -2,7 +2,7 @@
 
 🌐 **Portfolio**: [dietken1.github.io](https://dietken1.github.io)<br>
 📧 **Email**: [dietken1@ajou.ac.kr](mailto:dietken1@ajou.ac.kr)<br>
-📝 **Blog**: [dietken1.tistory.com](https://dietken1.tistory.com/)<br>
+📝 **Blog**: [velog.io/@dietken1](https://velog.io/@dietken1)<br>
 📱 **Instagram**: [@dietken1](https://instagram.com/dietken1)<br>
 
 ---
