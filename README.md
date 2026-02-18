@@ -26,6 +26,7 @@
 | 프로젝트 명 | 설명 |
 |------------|------|
 | **[Kiero](https://github.com/Team-Kiero/Kiero-Server)** | 자녀의 일정 관리와 자기주도적 습관 형성을 돕는 게이미피케이션 기반 성장 플랫폼 |
+| **[설스터디](https://github.com/Blaybus-MoMen/MoMen_Interface.git)** | 수능 집중코칭 플랫폼 (블레이버스 제4회 MVP 개발 공모전 출품작) |
 | **[AeroChain](https://github.com/dietken1/AeroChain-Server.git)** | 차세대 드론 멀티배송 서비스 |
 | **[HandsUP](https://github.com/SOPT-all/37-SOPTKATHON-SERVER-ANDROID2.git)** | 온라인 대학 공론장 서비스 |
 | **[IsItEmpty](https://github.com/Isitempty)** | 이전 **지성Park** 서비스의 문제점을 개선한 실시간 주차장 정보 제공 서비스 |
