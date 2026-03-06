@@ -10,7 +10,8 @@
 - **[아주대학교](https://www.ajou.ac.kr/kr/index.do)** | 소프트웨어학과 | 21.03 ~ 
 ---
 ### 💼 Experience
-- **[SOPT](https://www.sopt.org/)** | 37기 서버파트 YB | 25.09 ~
+- **[SOPT Makers](https://makers.sopt.org/)** | 38기 BE Chapter | 26.02 ~
+- **[SOPT](https://www.sopt.org/)** | 37기 서버파트 YB | 25.09 ~ 26.02
 - **[Inbridge](https://in-bridge.com/)** | 개발부서 인턴 | 25.03 ~ 25.08
 - **[Pirogramming](https://www.pirogramming.com/)** | 피로그래밍 서비스 개발 팀 PIRONEER 4기 | 25.03 ~ 25.05
 - **[Pirogramming](https://www.pirogramming.com/)** | 22기 & 23기 기획팀장 | 24.12 ~ 25.08
