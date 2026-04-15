@@ -47,7 +47,6 @@
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-%234EAA25.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSql-%23337691.svg?&style=for-the-badge&logo=PostgreSql&logoColor=white" />
 <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white" />
@@ -88,7 +87,6 @@
 
 <br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dietken1)](https://solved.ac/dietken1)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dietken1&theme=cold)
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dietken1&utm_content=line">
