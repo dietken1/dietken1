@@ -20,6 +20,7 @@
 - SOPT 37th AppJam Demoday | **1st prize** | 26.01.24
 ---
 ### 📌 Certifications
+- **정보처리기사** | 한국산업인력공단 | 26.06.12
 - **SQLD** | 한국데이터베이스진흥원 | 25.09.19
 
 ---
